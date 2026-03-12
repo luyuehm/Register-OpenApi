@@ -9,7 +9,7 @@
 ### 📢 关注我的频道
 
 获取最新脚本和部署教程，别错过更新：
-
+https://github.com/luyuehm/Register-OpenApi.git
 
 ### 🔧 资源推荐
 - YesCaptcha 推荐注册链接（grok Turnstile 云解）：https://yescaptcha.com/i/XJjOWF
