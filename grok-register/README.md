@@ -22,7 +22,7 @@ pip install curl_cffi beautifulsoup4 requests python-dotenv
 mkdir -p keys
 ```
 
-4. 配置 YesCaptcha（必需）：在 `.env` 写入  ，（如没有key 可以在https://yescaptcha.com/i/PVu8Sc 注册申请）
+4. 配置 YesCaptcha（必需）：在 `.env` 写入  ，（如没有key 可以在https://yescaptcha.com/i/XJjOWF 注册申请）
 
 ```
 YESCAPTCHA_KEY="你的_yescaptcha_key"
