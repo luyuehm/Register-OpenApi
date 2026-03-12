@@ -12,6 +12,6 @@
 
 
 ### 🔧 资源推荐
-- YesCaptcha 推荐注册链接（grok Turnstile 云解）：https://yescaptcha.com/i/PVu8Sc
+- YesCaptcha 推荐注册链接（grok Turnstile 云解）：https://yescaptcha.com/i/XJjOWF
 
 
